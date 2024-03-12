@@ -1,4 +1,5 @@
-![image](https://github.com/sonuf123/Fassos-Insights-Project/assets/24766030/f27905e8-f7d4-4df7-bc58-d8883bc0b9e6)
+![image](https://github.com/sonuf123/Fassos-Insights-Project/assets/24766030/8b82a5da-6469-4d24-9047-396987bde6f0)
+
 
 ### Fassos Case Study Project README
 
