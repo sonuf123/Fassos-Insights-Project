@@ -45,7 +45,6 @@ Certainly! Here's how you can represent the SQL queries in a tabular format usin
 | `select * from rolls;`           |
 | `select * from rolls_recipes;`   |
 
-This Markdown table will display the SQL queries in a neat and organized format.
 
 
 
