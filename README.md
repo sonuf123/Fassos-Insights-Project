@@ -37,7 +37,7 @@ D. Pricing and Ratings
 ## SQL Queries
 For executing the analysis tasks, the following SQL queries can be used:
 
-Certainly! Here's how you can represent the SQL queries in a tabular format using Markdown:
+
 
 | SQL Query                   |
 |-----------------------------|
